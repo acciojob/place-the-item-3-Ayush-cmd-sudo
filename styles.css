@@ -1,6 +1,6 @@
 /* Your CSS Code here. */
 .holder{
-	justify-content:row;
+	justify-content:space-evenly;
 	display:flex;
 	gap:20px;
 	flex-wrap:wrap;
